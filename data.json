@@ -1,0 +1,33 @@
+{
+  "profile":[
+    {
+    "name":"Vyshu",
+    "comname":"APSSDC",
+    "numb":"1122334455",
+    "mail":"vaishu@gmail.com"
+  },
+    {
+      "name":"Nikki",
+      "comname":"qis",
+      "numb":"1234567890",
+      "mail":"nikki@gmail.com"
+    },
+    {
+        "name":"Geeth",
+        "comname":"qis formacy",
+        "numb":"1234567891",
+        "mail":"geeth@gmail.com"
+      },
+       {
+            "name":"hani",
+            "comname":"qis it",
+            "numb":"1234567892",
+            "mail":"hani@gmail.com"
+          },{
+               "name":"kavya",
+               "comname":"harshini",
+               "numb":"1234567893",
+               "mail":"kavya@gmail.com"
+             }
+  ]
+}
