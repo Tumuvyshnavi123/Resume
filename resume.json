@@ -1,0 +1,38 @@
+{
+  "profile":{
+    "name":"vyshu",
+    "image":"images/vyshu.png",
+    "comname":"APSSDC",
+    "number":"1122334455",
+    "mail":"vyshu@gmail.com",
+    "career":"To have my career in a progressive organization that gives a scope to apply my knowledge and Technical skills to work dynamically for the growth of organization."
+
+  },
+  "Education":[
+    {
+      "degree":"B.Tech",
+      "college":"QIS",
+      "branch":"CSE",
+      "marks":"88%",
+      "endDate":"06/06/2020"
+        },
+  {
+      "degree":"inter",
+      "college":"Narayana",
+      "branch":"mpc",
+      "marks":"90%",
+      "endDate":"03/04/2016"
+        },
+        {
+            "degree":"SSC",
+            "college":"vidyanikethan",
+            "branch":"TM",
+            "marks":"92%",
+            "endDate":"08/03/2014"
+              }
+       ],
+       "skills":{
+         "OS":"Windows 7, Windows 8.1, Windows 8.1, xp,",
+         "PS":"HTML, JAVASCRIPT, PHP, C, JAVA, Android"
+       }
+          }
